@@ -37,7 +37,7 @@ Image captioning is the task of generating a textual description for an input im
    - Access the Kaggle notebook interface.
 
 2. **Import Notebook**
-   - Upload the `image_captioning.ipynb` notebook to your Kaggle environment.
+   - Upload the `image-captioning-attention-cnn-rnn.ipynb` notebook to your Kaggle environment.
 
 3. **Install Dependencies**
    - Ensure that required dependencies are installed in the Kaggle notebook environment. Use `!pip install <package>` commands within the notebook to install any missing packages.
